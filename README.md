@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+life is like a box of choclates.
+You never know what your gonna get
